@@ -1,5 +1,6 @@
 import time
 import discord
+import openai
 
 print("Hello!")
 time.sleep(2)
